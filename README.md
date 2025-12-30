@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT expert 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on programmation 
-- 📫 How to reach me cherygy030@gmail.com
+- 📫 How to reach me cheryguy030@gmail.com
 
 <!---
 GuyBastien/GuyBastien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
